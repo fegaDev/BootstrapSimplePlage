@@ -11,4 +11,6 @@
 
 ## Mobile Version
 ![MobileVersion](resources/example/mobile.png)
-##  Download Template 😊
+
+## Download Template😊
+[Go!](https://github.com/fegaDev/BootstrapSimplePlage/archive/refs/heads/master.zip)
