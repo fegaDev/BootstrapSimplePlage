@@ -5,10 +5,10 @@
 [![GitHub forks](https://img.shields.io/github/forks/fegaDev/BootstrapSimplePlage)](https://github.com/fegaDev/BootstrapSimplePlage/network)
 [![GitHub stars](https://img.shields.io/github/stars/fegaDev/BootstrapSimplePlage)](https://github.com/fegaDev/BootstrapSimplePlage/stargazers)
 
-##Desktop Version
+## Desktop Version
 ![DesktopVersion](resources/example/Believe-It.png)
 ![DesktopVersion](resources/example/lg.png)
 
-##Mobile Version
+## Mobile Version
 ![MobileVersion](resources/example/mobile.png)
 ##  Download Template 😊
